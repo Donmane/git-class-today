@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+    color: white;
+}
+div p {
+    color: red;
+    flex-direction:wrap;
+    justify-content: space-around;
+}
